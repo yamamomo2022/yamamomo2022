@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello, I'm [Your Name]!
+
+Welcome to my GitHub profile! Here are some of my projects and interests.
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamamomo2022&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yamamomo2022&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
