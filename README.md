@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 Hello, I'm yamamomo!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamamomo2022&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yamamomo2022&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamamomo2022&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yamamomo2022&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p></td>
+  </tr>
+</table>
